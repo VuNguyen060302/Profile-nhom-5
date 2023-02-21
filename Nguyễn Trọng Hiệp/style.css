@@ -1,0 +1,18 @@
+body, html {
+
+	margin: 0;
+	padding: 0;
+
+}
+body {
+
+	background: url(./img/xanh.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+header > img {
+	width: 12em;
+	height: 12em;
+	border-radius: 100%;
+	border: 3px solid #ffffff;
+	box-shadow: rgb(86, 86, 221) 0px 2px 8px 0px; 
+}
