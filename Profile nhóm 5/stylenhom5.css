@@ -1,0 +1,14 @@
+body {
+
+	background: url(./img/congnghe.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+header {
+	margin-top: 2em;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    font-size: 60px;
+    color: aliceblue;
+}
